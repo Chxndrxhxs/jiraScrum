@@ -1,0 +1,15 @@
+1. What is the purpose of creating a project in JIRA, and what are the basic steps involved in project creation?
+
+Answer-:
+--------
+
+A project in JIRA is created to organize and manage all the tasks, issues, and workflows of a team in one centralized place. It helps teams track progress, assign responsibilities, and collaborate effectively.
+
+Basic Steps:
+
+->Log in to JIRA and click "Create Project"
+->Select a project type (Scrum or Kanban)
+->Enter the project name and project key
+->Add Epics, User story and a Backlog
+->Configure the board and workflow settings
+->Start the Sprint

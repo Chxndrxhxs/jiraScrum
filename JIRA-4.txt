@@ -1,0 +1,13 @@
+4. Differentiate between the Board and Backlog sections in JIRA.
+
+Answer-:
+--------
+
+The Board displays the tasks of the current active sprint. It shows work moving across columns such as To Do, In Progress, In Review, and Done. It is used by the development team during daily standups to track what is happening right now.
+
+The Backlog is a list of all pending tasks, user stories, and bugs that have not yet been assigned to a sprint. It is managed by the Product Owner who prioritizes items for future sprints.
+
+        Board                                                   Backlog
+Shows current sprint tasks                                 Shows all future tasks
+Used daily by dev team                                     Used by Product Owner
+Tracks ongoing progress                                    Used for sprint planning
